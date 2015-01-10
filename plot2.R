@@ -1,4 +1,4 @@
-setwd("~/GitHub/EDA")
+setwd("~/GitHub/EDAP1")
 
 #loading required libraries
 library(data.table)
